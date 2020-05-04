@@ -1,14 +1,10 @@
 {
-  "name": "ebarkey/328/pets2",
+  "name": "ebarkey/328/week5",
   "authors":
   [
     {
       "name": "Elric Barkey",
       "email": "ebarkey2@greenriver.edu"
-    },
-    {
-      "name": "John Laygo",
-      "email": "jlaygo@mail.greenriver.edu"
     }
   ],
   "require":
